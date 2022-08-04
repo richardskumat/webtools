@@ -23,3 +23,10 @@ using fjudith/draw.io:alpine image.
 
 Add user: 22312:22312(or whatever)
 to ensure the image doesn't run as root.
+
+## Gitlab
+
+https://gitlab.com
+
+Great for git repo hosting with free ci for public projects(for now),
+seting up and configuring vars for git repos works great with terraform.
