@@ -30,3 +30,17 @@ https://gitlab.com
 
 Great for git repo hosting with free ci for public projects(for now),
 seting up and configuring vars for git repos works great with terraform.
+
+## Shellcheck
+
+https://www.shellcheck.net/
+
+Web version of shellcheck.
+
+As per the [Github page](https://github.com/koalaman/shellcheck#on-the-web):
+
+On the web
+
+Paste a shell script on https://www.shellcheck.net for instant feedback.
+
+ShellCheck.net is always synchronized to the latest git commit, and is the easiest way to give ShellCheck a go. Tell your friends!
