@@ -43,4 +43,10 @@ On the web
 
 Paste a shell script on https://www.shellcheck.net for instant feedback.
 
-ShellCheck.net is always synchronized to the latest git commit, and is the easiest way to give ShellCheck a go. Tell your friends!
+## Ascii Art generator
+
+https://manytools.org/hacker-tools/convert-images-to-ascii-art/
+
+Came across this site after searching for an ascii art generator.
+
+Can take the output and put it into /etc/motd for fun.
